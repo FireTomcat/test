@@ -6,8 +6,8 @@
  * 範例教學
  * https://blog.reh.tw/webpage-display-minecraft-server-status/
  */
-$host = "meow.mcpe.tw"; //設定伺服器網域或 IP
-$port = "19132"; //設定伺服器端口
+$host = "cn-he-plc-2.openfrp.top"; //設定伺服器網域或 IP
+$port = "56666"; //設定伺服器端口
 /*
 $host = $_GET["host"];
 $port = $_GET["port"];
